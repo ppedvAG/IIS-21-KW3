@@ -4,4 +4,4 @@
 
 [Blog Software Download](https://blogengine.io/support/download/)
 
-[FileZilla](https://filezilla-project.org/download.php?type=client)
+[FileZilla](https://download.filezilla-project.org/client/FileZilla_3.57.0_win64_sponsored-setup.exe)
